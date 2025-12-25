@@ -1,4 +1,4 @@
-# Calam-Handwritten-Devanagari-database
+# <img width="50" src="https://github.com/Calam-NN/Calam-Devanagari-database/blob/main/Mnit_logo.png" /> $CALAM_{NN}$- HANDWRITTEN DEVANAGARI  CHARACTERS (with MODIFIERS} DATABASE
 
 <br/> <b>Contributors:</b> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ=">Dr. Neeta Nain</a>, Rahul Paliwal
 <br/> <b>Institute: </b> <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
