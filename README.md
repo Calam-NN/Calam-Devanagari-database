@@ -1,6 +1,6 @@
 # Calam-Handwritten-Devanagari-database
 
-<br/> <b>Contributors:</b> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ="> Dr. Neeta Nain </a>,  Rahul Paliwal
+<br/> <b>Contributors:</b> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ=">Dr. Neeta Nain</a>, Rahul Paliwal
 <br/> <b>Institute: </b> <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
 <br/> <b>Published:</b> </h4> 15 Dec 2025
  <br/>
