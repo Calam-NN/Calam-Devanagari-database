@@ -1,9 +1,9 @@
 # Calam-Handwritten-Devanagari-database
 Calam Handwritten characters (with modifiers) Devanagari Database
-Contributors: <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ="> Dr. Neeta Nain </a>,  Rahul Paliwal
-Institute: <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
-Published: 15 Dec 2025
- <div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
+<br/>Contributors: <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ="> Dr. Neeta Nain </a>,  Rahul Paliwal
+<br/>Institute: <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
+<br/>Published: 15 Dec 2025
+ <br/><div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
     Science and Engineering of the Malaviya National Institute of Technology as part of research project grant
     (P.7.S.T/RD/2013/4400 – Urdu Corpus Development and HTR sanctioned by DST, Government of Rajasthan. A database for
     off-line Hindi handwritten character with matras (modifiers) is developed. Data set is collected from persons of
