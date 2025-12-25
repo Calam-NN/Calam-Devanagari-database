@@ -4,6 +4,7 @@
 <br/> <b>Institute: </b> <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
 <br/> <b>Published:</b> </h4> 15 Dec 2025
  <br/>
+ <br/>
  Calam Handwritten characters (with modifiers) Devanagari Database
  <div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
     Science and Engineering of the Malaviya National Institute of Technology as part of research project grant
@@ -38,10 +39,10 @@
 
 
 
-  <div class="heading">
-<H3> <b>Sample Consonents: </b> </H3> </div>  <br />     <hr /> <img src = "sample-consonents.png" /> 
-<H3> <b>Sample Vovewls: </b> </H3>  <br />     <hr /><img src = "sample-vowels-modifiers.png" /> 
-<H3> <b>Sample Numerals: </b> </H3>  <br />     <hr /> <img src = "sample-digits.png" />  <br />
+
+<H3> <b>Sample Consonents: </b> </H3>      <hr /> <img src = "sample-consonents.png" /> 
+<H3> <b>Sample Vovewls: </b> </H3>     <hr /><img src = "sample-vowels-modifiers.png" /> 
+<H3> <b>Sample Numerals: </b> </H3>      <hr /> <img src = "sample-digits.png" />  <br />
 Download :<a href="https://drive.google.com/file/d/1ZJb4utE9Xyi-Kvt75_NeNPBBVXk5Djzv/view?usp=sharing"> Hindi Consonents</a>   <br />
 Download :<a href="https://drive.google.com/file/d/1ViGofs9ymEq7Vw3ANBSKg1u0gRuB40gl/view?usp=sharing"> Hindi Numerals </a>  <br />
 Download :<a href="https://drive.google.com/file/d/1HZR3Cjgs-jDe6MNswLJ6oMyZoA0HgwIK/view?usp=sharing" > Hindi Vovewls</a> <br />
