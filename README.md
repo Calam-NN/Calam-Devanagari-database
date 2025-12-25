@@ -75,6 +75,6 @@ Character with Matra (Modifiers)</a>
 
 
     <hr />
-    <b>Mail:</b> nnain.cse@mnit.ac.in
+    <b>Contact:</b> nnain.cse@mnit.ac.in
   </div>
   <div>
