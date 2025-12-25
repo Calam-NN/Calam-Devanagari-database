@@ -47,7 +47,7 @@ Character with Matra (Modifiers)</a>
  To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
         href="consent form.pdf">Agreement form </a> </b>
     <h3> <b>Contact</b></h3>
-    ## Cite
+  ## Cite
 ```
 @article{kushwaha2021texture,
   title={Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers)},
@@ -57,18 +57,20 @@ Character with Matra (Modifiers)</a>
   year={2016},
   publisher={Springer}
 }
-  **Citations/References :** 
-   - Prakash Choudhary and Neeta Nain ,"CALAM: Linguistic Structure to Annotate Handwritten Text Image Corpus" Computational Intelligence in Data Mining by Springer at Orissa / 449-460 / 2014
 
-- Prakash Choudhary, Neeta Nain ,"CALAM: Model-Based Compilation and Linguistic Statistical Analysis of Urdu Corpus" , Sadhana Volume :45 / 20 / 2020 ISBN: 0256-2499
 
-- Deepti Khanduja, Neeta Nain, Subhash Panwar, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 1, Article No. 2, pp. 1- 10, November 2015.
+## Published Articles/ References: 
+   1. Prakash Choudhary and Neeta Nain ,"CALAM: Linguistic Structure to Annotate Handwritten Text Image Corpus" Computational Intelligence in Data Mining by Springer at Orissa / 449-460 / 2014
 
-- Prakash Choudhary, Neeta Nain, A Four-Tier Annotated Urdu Handwritten Text Image Dataset for Multidisciplinary Research on Urdu Script, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 4, Article No. 26, pp. 1-23, June 2016.
+   2. Prakash Choudhary, Neeta Nain ,"CALAM: Model-Based Compilation and Linguistic Statistical Analysis of Urdu Corpus" , Sadhana Volume :45 / 20 / 2020 ISBN: 0256-2499
 
-- Deepa Modi, Neeta Nain, Maninder Nehra, Part-of-speech Tagging for Hindi Corpus in Poor Resource Scenario, Journal of Multimedia Information Systems Volume 5(3):, pp.147-154
+   3. Deepti Khanduja, Neeta Nain, Subhash Panwar, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 1, Article No. 2, pp. 1- 10, November 2015.
 
-- Maninder Singh Nehra, Neeta Nain and Mushtaq Ahmed, "Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers)”, Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing, pp. 233-240, Springer 2016
+   4. Prakash Choudhary, Neeta Nain, A Four-Tier Annotated Urdu Handwritten Text Image Dataset for Multidisciplinary Research on Urdu Script, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 4, Article No. 26, pp. 1-23, June 2016.
+
+5. Deepa Modi, Neeta Nain, Maninder Nehra, Part-of-speech Tagging for Hindi Corpus in Poor Resource Scenario, Journal of Multimedia Information Systems Volume 5(3):, pp.147-154
+
+6. Maninder Singh Nehra, Neeta Nain and Mushtaq Ahmed, "Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers)”, Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing, pp. 233-240, Springer 2016
 
 
     <hr />
