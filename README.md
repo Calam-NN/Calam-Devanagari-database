@@ -1,11 +1,12 @@
 # <img width="50" src="https://github.com/Calam-NN/Calam-Devanagari-database/blob/main/Mnit_logo.png" /> $CALAM_{NN}$- HANDWRITTEN DEVANAGARI  CHARACTERS (with MODIFIERS} DATABASE
+**DOI:** https://doi.org/10.1007/978-81-322-2638-3\
+**Contributors:** Dr. Neeta Nain, Rahul Paliwal \
+**Institute:** Malaviya National Institute of Technology Jaipur \
+**Article:** Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers) \
+**Conference:** Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing, pp. 233-240, Springer 2016 \
+**Published:** 2016
 
-<br/> <b>Contributors:</b> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ=">Dr. Neeta Nain</a>, Rahul Paliwal
-<br/> <b>Institute: </b> <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
-<br/> <b>Published:</b> </h4> 15 Dec 2025
- <br/>
- <br/>
- Calam Handwritten characters (with modifiers) Devanagari Database
+# $CALAM_{NN}$- HANDWRITTEN DEVANAGARI  CHARACTERS (with MODIFIERS} DATABASE
  <div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
     Science and Engineering of the Malaviya National Institute of Technology as part of research project grant
     (P.7.S.T/RD/2013/4400 – Urdu Corpus Development and HTR sanctioned by DST, Government of Rajasthan. A database for
@@ -46,6 +47,30 @@ Character with Matra (Modifiers)</a>
  To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
         href="consent form.pdf">Agreement form </a> </b>
     <h3> <b>Contact</b></h3>
+    ## Cite
+```
+@article{kushwaha2021texture,
+  title={Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers)},
+  author={Maninder Singh Nehra, Neeta Nain and Mushtaq Ahmed},
+  proceedings={International Conference on Recent Cognizance in Wireless Communication & Image Processing, pp. 233-240, Springer 2016},
+  pages={233--240},
+  year={2016},
+  publisher={Springer}
+}
+  **Citations/References :** 
+   - Prakash Choudhary and Neeta Nain ,"CALAM: Linguistic Structure to Annotate Handwritten Text Image Corpus" Computational Intelligence in Data Mining by Springer at Orissa / 449-460 / 2014
+
+- Prakash Choudhary, Neeta Nain ,"CALAM: Model-Based Compilation and Linguistic Statistical Analysis of Urdu Corpus" , Sadhana Volume :45 / 20 / 2020 ISBN: 0256-2499
+
+- Deepti Khanduja, Neeta Nain, Subhash Panwar, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 1, Article No. 2, pp. 1- 10, November 2015.
+
+- Prakash Choudhary, Neeta Nain, A Four-Tier Annotated Urdu Handwritten Text Image Dataset for Multidisciplinary Research on Urdu Script, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 15 Issue 4, Article No. 26, pp. 1-23, June 2016.
+
+- Deepa Modi, Neeta Nain, Maninder Nehra, Part-of-speech Tagging for Hindi Corpus in Poor Resource Scenario, Journal of Multimedia Information Systems Volume 5(3):, pp.147-154
+
+- Maninder Singh Nehra, Neeta Nain and Mushtaq Ahmed, "Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers)”, Proceedings of the International Conference on Recent Cognizance in Wireless Communication & Image Processing, pp. 233-240, Springer 2016
+
+
     <hr />
     <b>Mail:</b> nnain.cse@mnit.ac.in
   </div>
