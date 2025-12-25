@@ -58,8 +58,9 @@ Character with Matra (Modifiers)</a>
   publisher={Springer}
 }
 
+```
 
-## Published Articles/ References: 
+## Published Articles/ References:  
    1. Prakash Choudhary and Neeta Nain ,"CALAM: Linguistic Structure to Annotate Handwritten Text Image Corpus" Computational Intelligence in Data Mining by Springer at Orissa / 449-460 / 2014
 
    2. Prakash Choudhary, Neeta Nain ,"CALAM: Model-Based Compilation and Linguistic Statistical Analysis of Urdu Corpus" , Sadhana Volume :45 / 20 / 2020 ISBN: 0256-2499
