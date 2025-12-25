@@ -1,8 +1,8 @@
 # Calam-Handwritten-Devanagari-database
 
-<br/><h4> <b>Contributors:</b> </h4> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ="> Dr. Neeta Nain </a>,  Rahul Paliwal
-<br/><h4> <b>Institute: </b> </h4><a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
-<br/><h4> <b>Published:</b> </h4> 15 Dec 2025
+<br/> <b>Contributors:</b> <a href = "https://www.mnit.ac.in/dept_cse/profile?fid=TKQ="> Dr. Neeta Nain </a>,  Rahul Paliwal
+<br/> <b>Institute: </b> <a href = "https://www.mnit.ac.in/index" >Malaviya National Institute of Technology Jaipur </a>
+<br/> <b>Published:</b> </h4> 15 Dec 2025
  <br/>
  Calam Handwritten characters (with modifiers) Devanagari Database
  <div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
