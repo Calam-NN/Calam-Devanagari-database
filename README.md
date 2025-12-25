@@ -34,9 +34,9 @@
         for research findings.</li>
     </ul>
     <br />
+   <table border="0" cellpadding="10"> <tr> <td> <h3><b>Sample Consonants:</b></h3> <img src="sample-consonents.png" alt="Sample Consonants"> </td> <td> <h3><b>Sample Vowels:</b></h3> <img src="sample-vowels-modifiers.png" alt="Sample Vowels"> </td> <td> <h3><b>Sample Numerals:</b></h3> <img src="sample-digits.png" alt="Sample Numerals"> </td> </tr> 
+   </table>
   </div>
-<table border="0" cellpadding="10"> <tr> <td> <h3><b>Sample Consonants:</b></h3> <img src="sample-consonents.png" alt="Sample Consonants"> </td> <td> <h3><b>Sample Vowels:</b></h3> <img src="sample-vowels-modifiers.png" alt="Sample Vowels"> </td> <td> <h3><b>Sample Numerals:</b></h3> <img src="sample-digits.png" alt="Sample Numerals"> </td> </tr>
-
 
 Download :<a href="https://drive.google.com/file/d/1ZJb4utE9Xyi-Kvt75_NeNPBBVXk5Djzv/view?usp=sharing"> Hindi Consonents</a>   <br />
 Download :<a href="https://drive.google.com/file/d/1ViGofs9ymEq7Vw3ANBSKg1u0gRuB40gl/view?usp=sharing"> Hindi Numerals </a>  <br />
