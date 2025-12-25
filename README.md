@@ -1,4 +1,4 @@
-# Calam-Devanagari-database
+# Calam-Handwritten-Devanagari-database
 Calam Handwritten characters (with modifiers) Devanagari Database
  <div>Handwritten Vowels and Consonants (with Modifiers) Devanagari database developed at the Department of Computer
     Science and Engineering of the Malaviya National Institute of Technology as part of research project grant
@@ -34,6 +34,9 @@ Calam Handwritten characters (with modifiers) Devanagari Database
 
 
   <div class="heading">
+Sample Consonents : <img src = "sample-consonents.png" />
+Sample Vovewls    : <img src = "sample-vowels-modifiers.png" />
+Sample Numerals   : <img src = "sample-digits.png" />
 Download :<a href="https://drive.google.com/file/d/1ZJb4utE9Xyi-Kvt75_NeNPBBVXk5Djzv/view?usp=sharing"> Hindi Consonents</a>   <br />
 Download :<a href="https://drive.google.com/file/d/1ViGofs9ymEq7Vw3ANBSKg1u0gRuB40gl/view?usp=sharing"> Hindi Numerals </a>  <br />
 Download :<a href="https://drive.google.com/file/d/1HZR3Cjgs-jDe6MNswLJ6oMyZoA0HgwIK/view?usp=sharing" > Hindi Vovewls</a> <br />
