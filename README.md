@@ -1,5 +1,5 @@
 # <img width="50" src="https://github.com/Calam-NN/Calam-Devanagari-database/blob/main/Mnit_logo.png" /> $CALAM_{NN}$- HANDWRITTEN DEVANAGARI  CHARACTERS (with MODIFIERS} DATABASE
-**DOI:** https://doi.org/10.1007/978-81-322-2638-3\
+**DOI:** https://doi.org/10.1007/978-81-322-2638-3 \
 **Contributors:** Dr. Neeta Nain, Rahul Paliwal \
 **Institute:** Malaviya National Institute of Technology Jaipur \
 **Article:** Handwritten Devnagari Script Database Development for Off-Line Hindi Character with Matra (Modifiers) \
